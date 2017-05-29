@@ -1,6 +1,19 @@
 # Excel-VBA-Gradebook
 Excel VBA Macro for Gradebooks
 
+Current Version: 0.5
+
+Current Features
+
+- Detects the selected student's cell, and generates a progress report based on each of 5 categories (Assignments, Attendance & Participation, Tests, Midterm & Final Exams, and Semester Grade.
+
+To Be Added
+
+- ProgRepClass: Something that generates a progress report in each category for an entire class of students, regardless of the student or cell selected.
+- Cell Resizing: Resizes the cell based on the assignment title length.
+- Master Stats: A page in the gradebook that states the number of classes in the workbook, how many students in each class, and perhaps some other stats that can be useful at a glance.
+- Column Split: I may take the first column-split feature and extend it to the other categories.
+
 Hello all,
 
 I'm a teacher in Guangzhou, China, and I usually store my gradebooks in excel files before I upload them to our LMS.
